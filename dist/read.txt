@@ -1,0 +1,3 @@
+Como funciona?
+Varrendo o Forms Online, verificamos aqueles candidatos que não possui o status com a seguinte mensagem 'email enviado', aparti desse ponto
+são coletados os dados desse candidado e enviado para o email do mesmo
